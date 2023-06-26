@@ -1,2 +1,2 @@
 FROM debian
-COPY . .
+COPY . ./home
